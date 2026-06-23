@@ -41,6 +41,7 @@ I am an analytical and detail-oriented developer specializing in **Data Analysis
 ### 🤝 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/madhavshuklar21/](https://www.linkedin.com/in/madhavshuklar21/)[cite: 1]
+- **HackerRank:** [hackerrank.com/profile/madhavrs2106](https://www.hackerrank.com/profile/madhavrs2106)[cite: 1]
 - **Email:** [madhavrs.official@gmail.com](mailto:madhavrs.official@gmail.com)[cite: 1]
 
 *"Prioritizing code, data, and building impactful projects."* 🚀
