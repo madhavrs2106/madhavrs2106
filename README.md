@@ -9,7 +9,7 @@ I am an analytical and detail-oriented developer specializing in **Data Analysis
 ### 🛠️ Tech Stack & Tools
 
 - **Data & Analytics:** Python, SQL, Excel, Power BI, Machine Learning Frameworks[cite: 1]
-- **Development & Languages:** JavaScript, PHP, C, C++[cite: 1]
+- **Development & Languages:** JavaScript, C++[cite: 1]
 - **Core Competencies:** Data-Driven Problem Solving, Mathematical Modeling, Algorithm Design[cite: 1]
 
 ---
