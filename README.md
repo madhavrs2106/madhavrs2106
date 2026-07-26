@@ -8,26 +8,26 @@ I am an analytical and detail-oriented developer specializing in **Data Analysis
 
 ### 🛠️ Tech Stack & Tools
 
-- **Data & Analytics:** Python, SQL, Excel, Power BI, Machine Learning Frameworks[cite: 1]
-- **Development & Languages:** JavaScript, C++[cite: 1]
-- **Core Competencies:** Data-Driven Problem Solving, Mathematical Modeling, Algorithm Design[cite: 1]
+- **Data & Analytics:** Python, SQL, Excel, Power BI, Machine Learning Frameworks.
+- **Development & Languages:** JavaScript, C++.
+- **Core Competencies:** Data-Driven Problem Solving, Mathematical Modeling, Algorithm Design.
 
 ---
 
 ### 🎓 Education
 
-- **B.Tech in Computer Science** — Mandsaur University (Expected 2029)[cite: 1]
+- **B.Tech in Computer Science** — Mandsaur University (Expected 2029).
 
 ---
 
 ### 📜 Certifications
 
-- 🐍 **Python for Data Science** – NPTEL, IIT Madras[cite: 1]
-- 📊 **Data Analytics with Python** – NPTEL, IIT Roorkee[cite: 1]
-- 🤖 **Machine Learning using Python** – Simplilearn[cite: 1]
-- 🗄️ **Introduction to SQL** – Simplilearn[cite: 1]
-- 📈 **Power BI for Beginners** – Simplilearn[cite: 1]
-- ⊞ **Introduction to MS Excel** – Simplilearn[cite: 1]
+- 🐍 **Python for Data Science** – NPTEL, IIT Madras.
+- 📊 **Data Analytics with Python** – NPTEL, IIT Roorkee.
+- 🤖 **Machine Learning using Python** – Simplilearn.
+- 🗄️ **Introduction to SQL** – Simplilearn.
+- 📈 **Power BI for Beginners** – Simplilearn.
+- ⊞ **Introduction to MS Excel** – Simplilearn.
 
 ---
 
@@ -40,8 +40,9 @@ I am an analytical and detail-oriented developer specializing in **Data Analysis
 
 ### 🤝 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/madhavshuklar21/](https://www.linkedin.com/in/madhavshuklar21/)[cite: 1]
-- **HackerRank:** [hackerrank.com/profile/madhavrs2106](https://www.hackerrank.com/profile/madhavrs2106)[cite: 1]
-- **Email:** [madhavrs.official@gmail.com](mailto:madhavrs.official@gmail.com)[cite: 1]
+- **LinkedIn:** [linkedin.com/in/madhavshuklar21/](https://www.linkedin.com/in/madhavshuklar21/).
+- **Leetcode:** [leetcode.com/u/madhavrs2106/](https://leetcode.com/u/madhavrs2106/)
+- **HackerRank:** [hackerrank.com/profile/madhavrs2106](https://www.hackerrank.com/profile/madhavrs2106).
+- **Email:** [madhavrs.official@gmail.com](mailto:madhavrs.official@gmail.com).
 
 *"Prioritizing code, data, and building impactful projects."* 🚀
